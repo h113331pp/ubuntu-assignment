@@ -1,3 +1,9 @@
+hello (2.10-2ubuntu4wally1) jammy; urgency=low
+
+  * According to Ubuntu assignment, add testing.sh
+
+ -- Wally Yeh <wally.yeh.jp@gmail.com>  Sun, 04 Dec 2022 13:00:55 +0900
+
 hello (2.10-2ubuntu4) jammy; urgency=medium
 
   * No-change rebuild for ppc64el baseline bump.
